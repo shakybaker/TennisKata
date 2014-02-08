@@ -8,6 +8,7 @@ namespace TennisGameKata2.Model
 {
     public class Game
     {
+        //test to see if commit works
         private int score1 { get; set; }
         private int score2 { get; set; }
 
